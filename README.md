@@ -3,8 +3,7 @@
 Generate time travel raster cost.
 
 
-![](https://raw.githubusercontent.com/wiki/domlysz/QGIS-Processing
-/img/isochrone_toolbox.jpg)
+![](https://raw.githubusercontent.com/wiki/domlysz/QGIS-Processing/img/isochrone_toolbox.jpg)
 
 Define a working extent :
 
